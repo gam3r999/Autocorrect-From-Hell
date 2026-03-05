@@ -275,7 +275,7 @@ Released under **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa
 
 **Made with chaos and bad decisions**
 
-`St. Petersburg, FL  ·  March 2026`
+`St. Petersburg, FL  ·  2026`
 
 **[@gam3r999](https://github.com/gam3r999)**
 
