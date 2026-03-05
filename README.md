@@ -72,7 +72,7 @@ OUTPUT →  the forbidden ritual coven gathering with dungeon master is on the b
 | 🔢 | **Roman Numerals** | Type `42` → get `XLII`. Every time. |
 | 🔐 | **XOR Obfuscation** | Funny phrases are encrypted in the binary to dodge AV heuristics |
 | 👻 | **Silent Mode** | No UI, no tray icon, no persistence — completely invisible |
-| 🧹 | **Clean Uninstaller** | `cleanup.exe` — kills process, removes files, no admin required |
+| 🧹 | **Clean Uninstaller** | `uninstall_chaos.exe` — kills process, removes files, admin required |
 | 🎭 | **Disguise Support** | Custom icon + fake version info — ship it as `RuntimeBroker.exe` |
 
 <br>
